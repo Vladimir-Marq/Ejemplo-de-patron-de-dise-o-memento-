@@ -1,4 +1,4 @@
-"Limppiador de consola"
+"Limpiador de consola"
 
 import os
 
